@@ -1,5 +1,5 @@
 # Kartar Telecom 2
-- Pictures: https://192.168.1.18:7860/pics/
+- Pictures: https://192.168.1.18:7860/pic/
 - Aadhaar Card : https://192.168.1.18:7860/aadhaar/
 - Voter Card : https://192.168.1.18:7860/voter/
 - UAN Card : https://192.168.1.18:7860/uan/
@@ -8,7 +8,7 @@
 - Ayushman Card *5+5 Lakh*:⏳ https://192.168.1.18:7860/ayushman/
 
 # Localhost
-- Pictures: https://127.0.0.1:7860/pics/
+- Pictures: https://127.0.0.1:7860/pic/
 - Aadhaar Card : https://127.0.0.1:7860/aadhaar/
 - Voter Card : https://127.0.0.1:7860/voter/
 - UAN Card : https://127.0.0.1:7860/uan/
