@@ -6,7 +6,7 @@
 - PAN Card : https://192.168.1.18:7860/pan/
 - Ayushman Card 5 Lakh: https://192.168.1.18:7860/ayushman_5lakh/
 
-# Kartar Telecom 2
+# Localhost
 - Pictures: https://127.0.0.1:7860/pics/
 - Aadhaar Card : https://127.0.0.1:7860/aadhaar/
 - Voter Card : https://127.0.0.1:7860/voter/
