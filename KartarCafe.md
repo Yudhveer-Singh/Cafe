@@ -4,6 +4,7 @@
 - Voter Card : http://192.168.1.18:7860/voter/
 - UAN Card : http://192.168.1.18:7860/uan/
 - PAN Card : http://192.168.1.18:7860/pan/
+- 10 Lakh Card *10 Lakh*:⏳ http://192.168.1.18:7860/10_lakh_card/
 - Ayushman Card *5 Lakh*: http://192.168.1.18:7860/ayushman_5lakh/
 - Ayushman Card *5+5 Lakh*:⏳ http://192.168.1.18:7860/ayushman/
 
@@ -13,5 +14,6 @@
 - Voter Card : http://127.0.0.1:7860/voter/
 - UAN Card : http://127.0.0.1:7860/uan/
 - PAN Card : http://127.0.0.1:7860/pan/
+- 10 Lakh Card *10 Lakh*:⏳ http://127.0.0.1:7860/10_lakh_card/
 - Ayushman Card *5 Lakh*: http://127.0.0.1:7860/ayushman_5lakh/
 - Ayushman Card *5+5 Lakh*:⏳ http://127.0.0.1:7860/ayushman/
