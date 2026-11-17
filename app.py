@@ -11,8 +11,12 @@
 #
 # See <https://www.gnu.org/licenses/> for details.
 
+print("Starting...")
+print("Loading gradio...")
 import gradio as gr
+print("Loading uviocorn")
 import uvicorn
+print("Loading FastAPI")
 from fastapi import FastAPI
 
 from home import app as home_app # ready
@@ -20,6 +24,7 @@ from aadhaar import app as aadhaar_app # ready
 from pic import app as pic_app, CSS # ready
 from pan import app as pan_app # ready
 from ayushman import app as ayushman_app # ready
+from 10_lakh_card import app as 10_lakh_card_app # ready
 from ayushman_5lakh import app as ayushman_5lakh_app # ready
 from voter import app as voter_app # ready
 from uan import app as uan_app # ready
@@ -40,6 +45,7 @@ app = gr.mount_gradio_app(app, pic_app, path="/pic", css = CSS)
 app = gr.mount_gradio_app(app, pan_app, path="/pan")
 app = gr.mount_gradio_app(app, uan_app, path="/uan")
 app = gr.mount_gradio_app(app, ayushman_app, path="/ayushman")
+app = gr.mount_gradio_app(app, 10_lakh_card_app, path="/10_lakh_card")
 app = gr.mount_gradio_app(app, ayushman_5lakh_app, path="/ayushman_5lakh")
 app = gr.mount_gradio_app(app, voter_app, path="/voter")
 
